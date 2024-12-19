@@ -1,0 +1,255 @@
+2024-12-18 11:28:06 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 11:28:07 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 11:28:07 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 11:28:07 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 11:28:08 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 11:28:09 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 11:28:09 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 11:28:14 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 11:28:14 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 11:28:15 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 11:28:15 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 11:28:16 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 11:28:16 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 17:02:29 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 17:02:29 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 17:02:30 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 17:02:30 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 17:02:31 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 17:02:31 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 17:02:31 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 17:02:36 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 17:02:36 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 17:02:37 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 17:02:37 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 17:02:38 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 17:02:38 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 17:04:00 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 17:04:00 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 17:04:00 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 17:04:00 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 17:04:02 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 17:04:02 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 17:04:02 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 17:04:08 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 17:04:08 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 17:04:08 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 17:04:08 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 17:04:09 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 17:04:09 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 17:11:57 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 17:11:57 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 17:11:58 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 17:11:58 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 17:11:59 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 17:11:59 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 17:11:59 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 17:12:06 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 17:12:06 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 17:12:07 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 17:12:07 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 17:12:08 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 17:49:21 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 17:49:21 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 17:49:21 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 17:49:21 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 17:49:23 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 17:49:23 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 17:49:23 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 17:49:29 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 17:49:29 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 17:49:30 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 17:49:30 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 17:49:30 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 19:17:36 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:17:36 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:17:36 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:17:36 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:17:38 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:17:38 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:17:38 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:17:45 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 19:17:45 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 19:17:45 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 19:17:45 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 19:17:46 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 19:17:46 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 19:18:51 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:18:52 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:18:52 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:18:52 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:18:54 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:18:54 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:18:54 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:19:03 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 19:19:03 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 19:19:04 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 19:19:04 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 19:19:05 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 19:19:05 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 19:22:05 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:22:06 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:22:06 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:22:06 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:22:08 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:22:09 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:22:09 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:24:48 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:24:48 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:24:48 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:24:48 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:24:58 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [28b2ad547ab1b6f334157732a14d4f16, clickElement {id=f.3870C0E756E8CB2F17C20C038B03EF47.d.98117C0108A44EFCB9DA529E35E91430.e.83}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53643}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\916824\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.241.154:4444/s..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (28b2ad547ab1b6f334157732a14d4f16)] -> xpath: //a[text()='Register']]
+Session ID: 28b2ad547ab1b6f334157732a14d4f16
+2024-12-18 19:24:58 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:25:08 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [28b2ad547ab1b6f334157732a14d4f16, clickElement {id=f.3870C0E756E8CB2F17C20C038B03EF47.d.98117C0108A44EFCB9DA529E35E91430.e.83}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53643}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\916824\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.241.154:4444/s..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (28b2ad547ab1b6f334157732a14d4f16)] -> xpath: //a[text()='Register']]
+Session ID: 28b2ad547ab1b6f334157732a14d4f16
+2024-12-18 19:25:08 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:35:22 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:35:22 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:35:22 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:35:22 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:35:24 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:35:24 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:35:24 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:35:32 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 19:35:33 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 19:35:33 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 19:35:33 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 19:35:34 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 19:35:34 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 19:36:07 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:36:07 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:36:07 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:36:08 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:36:18 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2f30f5327ecafbb2899270499ac2a6b0, clickElement {id=f.4BA628662741B319781B685275558961.d.A20DA04000F38C7D3663FA126D887733.e.96}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54933}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\916824\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.241.154:4444/s..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (2f30f5327ecafbb2899270499ac2a6b0)] -> xpath: //a[text()='Register']]
+Session ID: 2f30f5327ecafbb2899270499ac2a6b0
+2024-12-18 19:36:18 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:36:28 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2f30f5327ecafbb2899270499ac2a6b0, clickElement {id=f.4BA628662741B319781B685275558961.d.A20DA04000F38C7D3663FA126D887733.e.96}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54933}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\916824\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.241.154:4444/s..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (2f30f5327ecafbb2899270499ac2a6b0)] -> xpath: //a[text()='Register']]
+Session ID: 2f30f5327ecafbb2899270499ac2a6b0
+2024-12-18 19:36:28 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:41:16 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:41:16 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:41:17 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:41:17 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:41:27 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d3283aefea4e144366190578c8129699, clickElement {id=f.537603A64180827D79CE2C3D35514748.d.94C72197BC4FCCC6755D1A18F3E514D1.e.68}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55510}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55510/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (d3283aefea4e144366190578c8129699)] -> xpath: //a[text()='Register']]
+Session ID: d3283aefea4e144366190578c8129699
+2024-12-18 19:41:27 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:41:37 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d3283aefea4e144366190578c8129699, clickElement {id=f.537603A64180827D79CE2C3D35514748.d.94C72197BC4FCCC6755D1A18F3E514D1.e.68}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55510}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55510/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (d3283aefea4e144366190578c8129699)] -> xpath: //a[text()='Register']]
+Session ID: d3283aefea4e144366190578c8129699
+2024-12-18 19:41:37 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:48:51 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:48:51 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:48:51 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:48:51 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:49:02 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d1ffab8708dc0741701b92ae1c7ec300, clickElement {id=f.F5050E719264C6EE7DE396E2875D20D0.d.FB73C8CC3B3958FA2723043F4C1B8271.e.147}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55868}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55868/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (d1ffab8708dc0741701b92ae1c7ec300)] -> xpath: //a[text()='Register']]
+Session ID: d1ffab8708dc0741701b92ae1c7ec300
+2024-12-18 19:49:02 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:49:12 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=131.0.2903.99)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d1ffab8708dc0741701b92ae1c7ec300, clickElement {id=f.F5050E719264C6EE7DE396E2875D20D0.d.FB73C8CC3B3958FA2723043F4C1B8271.e.147}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55868}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55868/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (d1ffab8708dc0741701b92ae1c7ec300)] -> xpath: //a[text()='Register']]
+Session ID: d1ffab8708dc0741701b92ae1c7ec300
+2024-12-18 19:49:12 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:49:43 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:49:43 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:49:43 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:49:43 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:49:45 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:49:45 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:49:45 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:49:52 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:49:53 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:49:54 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:49:54 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:49:55 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:49:55 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:49:55 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:52:38 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:52:38 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:52:39 INFO  TC_001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2024-12-18 19:52:39 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details...
+2024-12-18 19:52:40 INFO  TC_001_AccountRegistrationTest:33 - Validating expected message..
+2024-12-18 19:52:40 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2024-12-18 19:52:40 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:52:46 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-18 19:52:46 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-18 19:52:47 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-18 19:52:47 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-18 19:52:48 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-18 19:52:48 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-18 19:53:43 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:53:43 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-18 19:53:43 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:53:43 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2024-12-18 19:53:53 ERROR TC_001_AccountRegistrationTest:41 - Test failed: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1fe48ce4b3f49c6df2fbbb38ff46b42, clickElement {id=f.77990C22C34700CB7AE34A6DAA570E25.d.EEF07AF585280AD5CD9DCFB045FEE5D2.e.144}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56277}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56277/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f1fe48ce4b3f49c6df2fbbb38ff46b42)] -> xpath: //a[text()='Register']]
+Session ID: f1fe48ce4b3f49c6df2fbbb38ff46b42
+2024-12-18 19:53:53 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-18 19:54:03 ERROR TC_001_AccountRegistrationTest:41 - Test failed: Error communicating with the remote browser. It may have died.
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1fe48ce4b3f49c6df2fbbb38ff46b42, clickElement [id]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56277}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56277/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f1fe48ce4b3f49c6df2fbbb38ff46b42)] -> xpath: //a[text()='Register']]
+Session ID: f1fe48ce4b3f49c6df2fbbb38ff46b42
+2024-12-18 19:54:03 INFO  TC_001_AccountRegistrationTest:44 - ***** Finished TC001_AccountRegistrationTest *****
